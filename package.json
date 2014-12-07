@@ -1,0 +1,24 @@
+{
+  "name": "mosaic-handlebars-helpers",
+  "version": "0.0.1",
+  "description": "Mosaic Handlebars helpers",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solarmosaic/handlebars-helpers"
+  },
+  "author": {
+    "name": "Solar Mosaic, Inc.",
+    "email": "support@solarmosaic.com",
+    "url": "http://solarmosaic.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solarmosaic/handlebars-helpers/issues"
+  },
+  "homepage": "https://github.com/solarmosaic/handlebars-helpers",
+  "devDependencies": {
+  }
+}

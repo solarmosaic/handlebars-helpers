@@ -1,0 +1,15 @@
+# Directories
+.idea
+.sass-cache
+bower_components
+node_modules
+public
+
+# Files
+*.log
+*.iml
+*.sublime*
+
+# Vendor
+source/assets/scripts/vendor
+source/assets/styles/vendor
