@@ -1,6 +1,6 @@
 {
   "name": "mosaic-handlebars-helpers",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mosaic Handlebars helpers",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/solarmosaic/handlebars-helpers/issues"
   },
   "homepage": "https://github.com/solarmosaic/handlebars-helpers",
-  "devDependencies": {
+  "dependencies": {
     "gray-matter": "^1.0.1",
     "lodash": "^2.4.1",
     "optional": "^0.1.0",
