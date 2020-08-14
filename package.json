@@ -22,7 +22,7 @@
   "homepage": "https://github.com/solarmosaic/handlebars-helpers",
   "dependencies": {
     "gray-matter": "^1.0.1",
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.20",
     "optional": "^0.1.0",
     "require-directory": "^2.0.0"
   }
